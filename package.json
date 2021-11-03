@@ -1,5 +1,5 @@
 {
-  "name": "htmllint-cli",
+  "name": "@nodecraft/htmllint-cli",
   "version": "0.0.7",
   "description": "A simple cli for htmllint.",
   "bin": {
